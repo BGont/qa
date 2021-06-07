@@ -1,0 +1,282 @@
+[
+    {
+        "file_path": "d:\\services\\bin\\testcourse\\hw\\lesson18_logparser\\temp\\access.txt",
+        "rfc_common_methods_stat": {
+            "GET": 2247849,
+            "POST": 918794,
+            "HEAD": 49974,
+            "PUT": 70,
+            "OPTIONS": 39,
+            "DELETE": 1
+        },
+        "requests_count": 3216980,
+        "top_10_ips": [
+            [
+                "193.106.31.130",
+                235209
+            ],
+            [
+                "198.50.156.189",
+                167812
+            ],
+            [
+                "5.112.235.245",
+                166722
+            ],
+            [
+                "5.114.231.216",
+                158258
+            ],
+            [
+                "5.113.18.208",
+                157674
+            ],
+            [
+                "91.218.225.68",
+                134370
+            ],
+            [
+                "79.62.229.212",
+                114759
+            ],
+            [
+                "149.56.83.40",
+                97533
+            ],
+            [
+                "5.114.64.184",
+                94043
+            ],
+            [
+                "5.113.216.211",
+                89125
+            ]
+        ],
+        "top_10_longest_reqs": [
+            {
+                "ip": "62.93.172.245",
+                "metod": "POST",
+                "url": "/administrator/index.php",
+                "duration": 10000
+            },
+            {
+                "ip": "213.162.68.113",
+                "metod": "GET",
+                "url": "/media/system/css/modal.css",
+                "duration": 10000
+            },
+            {
+                "ip": "194.166.55.43",
+                "metod": "GET",
+                "url": "/images/phocagallery/almhuette/thumbs/phoca_thumb_m_terasse.jpg",
+                "duration": 10000
+            },
+            {
+                "ip": "52.22.118.215",
+                "metod": "GET",
+                "url": "/apache-log/access_150427.log",
+                "duration": 10000
+            },
+            {
+                "ip": "91.115.173.141",
+                "metod": "GET",
+                "url": "/components/com_phocagallery/assets/js/shadowbox/src/skin/classic/loading.gif",
+                "duration": 10000
+            },
+            {
+                "ip": "205.167.170.15",
+                "metod": "GET",
+                "url": "/phocapdf",
+                "duration": 10000
+            },
+            {
+                "ip": "205.167.170.15",
+                "metod": "GET",
+                "url": "/images/phocagallery/almhuette/thumbs/phoca_thumb_m_almhuette_raith_005.jpg",
+                "duration": 10000
+            },
+            {
+                "ip": "93.79.249.4",
+                "metod": "POST",
+                "url": "/administrator/index.php",
+                "duration": 10000
+            },
+            {
+                "ip": "95.133.223.24",
+                "metod": "POST",
+                "url": "/administrator/index.php",
+                "duration": 10000
+            },
+            {
+                "ip": "92.100.30.102",
+                "metod": "GET",
+                "url": "/administrator/",
+                "duration": 10000
+            }
+        ],
+        "top_10_client_errors": [
+            [
+                [
+                    "128.74.162.38",
+                    "/apache-log/favicon.ico",
+                    "GET"
+                ],
+                1996
+            ],
+            [
+                [
+                    "158.64.79.8",
+                    "/templates/_system/css/general.css",
+                    "GET"
+                ],
+                547
+            ],
+            [
+                [
+                    "158.64.79.7",
+                    "/templates/_system/css/general.css",
+                    "GET"
+                ],
+                459
+            ],
+            [
+                [
+                    "46.188.125.44",
+                    "/apache-log/favicon.ico",
+                    "GET"
+                ],
+                451
+            ],
+            [
+                [
+                    "158.64.79.8",
+                    "/favicon.ico",
+                    "GET"
+                ],
+                317
+            ],
+            [
+                [
+                    "85.10.113.129",
+                    "/templates/_system/css/general.css",
+                    "GET"
+                ],
+                276
+            ],
+            [
+                [
+                    "62.46.187.218",
+                    "/apple-touch-icon-precomposed.png",
+                    "GET"
+                ],
+                228
+            ],
+            [
+                [
+                    "62.46.187.218",
+                    "/apple-touch-icon.png",
+                    "GET"
+                ],
+                228
+            ],
+            [
+                [
+                    "62.46.187.218",
+                    "/favicon.ico",
+                    "GET"
+                ],
+                228
+            ],
+            [
+                [
+                    "91.113.15.50",
+                    "/apple-touch-icon-precomposed.png",
+                    "GET"
+                ],
+                220
+            ]
+        ],
+        "top_10_server_errors": [
+            [
+                [
+                    "178.33.23.156",
+                    "/administrator/index.php",
+                    "POST"
+                ],
+                589
+            ],
+            [
+                [
+                    "91.218.225.68",
+                    "/index.php?option=com_content&view=9876sfi&id=49&Itemid=55",
+                    "GET"
+                ],
+                30
+            ],
+            [
+                [
+                    "91.218.225.68",
+                    "/index.php?view=article&catid=34:raith&id=49:ferienwohnung-1&tmpl=component&print=1&layout=9876sfi&page=&option=com_content&Itemid=47",
+                    "GET"
+                ],
+                30
+            ],
+            [
+                [
+                    "91.218.225.68",
+                    "/index.php?format=9876sfi&type=rss",
+                    "GET"
+                ],
+                22
+            ],
+            [
+                [
+                    "100.1.14.108",
+                    "/index.php?option=com_content&view=article'A=0&id=46&Itemid=54",
+                    "HEAD"
+                ],
+                21
+            ],
+            [
+                [
+                    "91.218.225.68",
+                    "/index.php?format=feed&type=9876sfi",
+                    "GET"
+                ],
+                19
+            ],
+            [
+                [
+                    "134.249.53.185",
+                    "http://almhuette-raith.at/administrator/index.php",
+                    "GET"
+                ],
+                16
+            ],
+            [
+                [
+                    "79.62.229.212",
+                    "/index.php?view=article&catid=34:raith&id=49:ferienwohnung-1&tmpl=component&print=1&layout=9876sfi&page=&option=com_content&Itemid=46",
+                    "GET"
+                ],
+                15
+            ],
+            [
+                [
+                    "176.31.226.22",
+                    "/index.php?option=com_content&amp;view=frontpage//?mosConfig_absolute_path=http://aquaplant.com.ua/form/tpl/templates_d/logx???",
+                    "GET"
+                ],
+                12
+            ],
+            [
+                [
+                    "100.1.14.108",
+                    "/index.php?option=com_content&view=article'A=0&id=46&Itemid=54",
+                    "GET"
+                ],
+                11
+            ]
+        ]
+    }
+]
